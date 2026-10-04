@@ -102,6 +102,3 @@ The gateway node creates its own Wi-Fi hotspot (`RescueMesh_Dashboard`). Connect
 
 Prototype complete — core bidirectional ESP-NOW communication, alert menu system, and live dashboard working.
 
-## License
-
-[Add your license here — e.g., MIT, GPL, etc.]
